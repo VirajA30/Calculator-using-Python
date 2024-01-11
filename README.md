@@ -28,19 +28,19 @@ $
 
 
 
-##Getting Started
-Prerequisites
+## Getting Started
+# Prerequisites
 Python 3.x
 Installation
-Clone the repository:
+# Clone the repository:
 git clone https://github.com/VirajA30/Calculator-using-Python.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 cd calculator
 Run the calculator:
 calculator.py
 
-Contributing
+## Contributing
 If you want to contribute to this project, feel free to open issues or submit pull requests. Follow the Contributing Guidelines for more details.
 
 
