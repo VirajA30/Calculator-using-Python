@@ -16,19 +16,19 @@ This simple Python calculator takes two numerical inputs and an operator (+, -, 
 
 ## Example
 
-```bash
+```
 $ calculator.py
 Enter a num 1: 10
 Enter a num 2: 5
 Enter an operator (+, -, /, *): *
 Result: 50
+$
+```
 
 
 
 
-
-
-Getting Started
+##Getting Started
 Prerequisites
 Python 3.x
 Installation
