@@ -1,4 +1,4 @@
-# Python Calculator
+# Calculator Using Python
 
 A basic calculator implemented in Python, which allows users to perform arithmetic operations.
 
@@ -17,11 +17,14 @@ This simple Python calculator takes two numerical inputs and an operator (+, -, 
 ## Example
 
 ```bash
-$ python calculator.py
+$ calculator.py
 Enter a num 1: 10
 Enter a num 2: 5
 Enter an operator (+, -, /, *): *
 Result: 50
+
+
+
 
 
 
@@ -30,7 +33,7 @@ Prerequisites
 Python 3.x
 Installation
 Clone the repository:
-git clone 
+git clone https://github.com/VirajA30/Calculator-using-Python.git
 
 Navigate to the project directory:
 cd calculator
@@ -40,6 +43,5 @@ calculator.py
 Contributing
 If you want to contribute to this project, feel free to open issues or submit pull requests. Follow the Contributing Guidelines for more details.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
